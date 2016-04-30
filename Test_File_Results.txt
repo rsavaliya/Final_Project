@@ -1,0 +1,54 @@
+Frequency	Word
+
+3028		the
+1660		and
+1649		to
+1467		a
+1255		he
+1117		of
+1043		was
+864		in
+809		harry
+805		his
+804		it
+738		said
+692		you
+684		
+620		had
+558		at
+554		on
+508		that
+459		they
+451		as
+438		I
+399		him
+388		but
+336		with
+326		be
+323		all
+322		for
+318		up
+316		out
+309		ron
+291		were
+258		have
+253		what
+250		them
+243		hagrid
+222		if
+220		back
+217		from
+210		one
+203		this
+198		there
+197		an
+193		she
+192		so
+192		into
+191		about
+191		not
+189		been
+181		its
+173		me
+
+Total number of words: 70804
